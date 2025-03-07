@@ -1,0 +1,13 @@
+배열 리터럴: 고정된 구문으로 바로 생성 [   ]
+for 연결된 반복문 --> [ ] 배열 리터럴
+배열 객체: 생성자나 new 연산자로 사용 Array(내장객체), String( ), Number( )
+(for in, for of) forEach, map
+
+객체: key와 value 가 쌍으로 이루어진 데이터
+형식:
+name이 key, value 는 'hong'
+         const person = {
+	name : 'hong';
+	age : 25;
+         }
+         person.name= 'hong'
